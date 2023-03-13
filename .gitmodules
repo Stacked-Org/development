@@ -1,0 +1,36 @@
+[submodule "packages/cli"]
+	path = packages/cli
+	url = https://github.com/Stacked-Org/cli.git
+[submodule "packages/core"]
+	path = packages/core
+	url = https://github.com/Stacked-Org/core.git
+[submodule "packages/crashlytics"]
+	path = packages/crashlytics
+	url = https://github.com/Stacked-Org/crashlytics.git
+[submodule "packages/firebase_auth"]
+	path = packages/firebase_auth
+	url = https://github.com/Stacked-Org/firebase_auth.git
+[submodule "packages/generator"]
+	path = packages/generator
+	url = https://github.com/Stacked-Org/generator.git
+[submodule "packages/gql"]
+	path = packages/gql
+	url = https://github.com/Stacked-Org/gql.git
+[submodule "packages/hooks"]
+	path = packages/hooks
+	url = https://github.com/Stacked-Org/hooks.git
+[submodule "packages/localization"]
+	path = packages/localization
+	url = https://github.com/Stacked-Org/localization.git
+[submodule "packages/localization_generator"]
+	path = packages/localization_generator
+	url = https://github.com/Stacked-Org/localization_generator.git
+[submodule "packages/services"]
+	path = packages/services
+	url = https://github.com/Stacked-Org/services.git
+[submodule "packages/stacked"]
+	path = packages/stacked
+	url = https://github.com/Stacked-Org/stacked.git
+[submodule "packages/themes"]
+	path = packages/themes
+	url = https://github.com/Stacked-Org/themes.git
